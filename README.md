@@ -1,4 +1,7 @@
 ### Hi there 👋
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeinP)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeinP&layout=compact)](https://github.com/yeinP)
 
 
 ### Skill 📫
@@ -17,7 +20,14 @@
 ![eclipseide](https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![js](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## Project
+### ~ing
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeinP&repo=animate_frontend)](https://github.com/yeinP/animate_frontend)
 
+### finish
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeinP&repo=Sundo)](https://github.com/yeinP/Sundo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeinP&repo=Appsolute)](https://github.com/yeinP/Appsolute)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeinP&repo=LunchBox)](https://github.com/yeinP/LunchBox)
 
 <!--
 **yeinP/yeinP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
