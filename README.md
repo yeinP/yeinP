@@ -23,6 +23,8 @@
 ## Project
 ### ~ing
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeinP&repo=animate_frontend)](https://github.com/yeinP/animate_frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeinP&repo=animate_backend)](https://github.com/yeinP/animate_backend)
+animate_backend 
 
 ### finish
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeinP&repo=Sundo)](https://github.com/yeinP/Sundo)
