@@ -1,4 +1,17 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Hello%20It's%20me%20YeIn&fontSize=90" alt="header">
+</p>
+
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23EBDE00&title_bg=%23626161&icon=awesomelists.svg&icon_color=%23FFFFFF&title=welcome+%3A%29&edge_flat=true" /></a>
+</p>
+
+
+
+### Introduction
+
+
+
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeinP)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeinP&layout=compact)](https://github.com/yeinP)
