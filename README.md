@@ -58,7 +58,7 @@
 
 
 ### finish
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeinP&repo=animate_frontend)](https://github.com/yeinP/animate)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeinP&repo=animate)](https://github.com/yeinP/animate)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeinP&repo=Phiimyein)](https://github.com/yeinP/Phiimyein)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeinP&repo=Sundo)](https://github.com/yeinP/Sundo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeinP&repo=Appsolute)](https://github.com/yeinP/Appsolute)
