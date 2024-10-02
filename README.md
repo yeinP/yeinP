@@ -12,10 +12,6 @@
 ## 🪪Introduction
 - 이름 : 박예인
 - 이메일 : yeinn1122@gmail.com
-- 블로그 : [welcome](https://blog.naver.com/yenny_1122)
-
-
-
 
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeinP)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -34,9 +30,8 @@
  ![css3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
  ![vuedotjs](https://img.shields.io/badge/vuedotjs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
  
-
-![H2](https://img.shields.io/badge/H2-685EA9?style=for-the-badge&logo=hugo&logoColor=white)
-![Mariadb](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-00dc5f?style=for-the-badge&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![postgre](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
